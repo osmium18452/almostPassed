@@ -9,17 +9,17 @@ namespace almost_passed
         private static string DrawAFloor(int width)
         {
             string s = "";
-            s += "│ ";
+            s += "│   ";
             for (int i = 0; i < width; i++)
             {
-                s += "┌─┐ ";
+                s += "┌─┐   ";
             }
 
             s += "│ \n";
-            s += "│ ";
+            s += "│   ";
             for (int i = 0; i < width; i++)
             {
-                s += ("└─┘ ");
+                s += ("└─┘   ");
             }
 
             s += ("│ \n");
@@ -55,32 +55,32 @@ namespace almost_passed
         private static string DrawYourself(int width)
         {
             string s = "";
-            s += ("│ ");
+            s += ("│   ");
             for (int i = 0; i < width; i++)
             {
-                s += ("┌─┐ ");
+                s += ("┌─┐   ");
             }
 
             s += ("│ \n");
-            s += ("│ ");
+            s += ("│   ");
             for (int i = 0; i < width; i++)
             {
-                s += ("└─┘ ");
+                s += ("└─┘   ");
             }
 
             s += ("│   ╰?╯\n");
 
-            s += ("│ ");
+            s += ("│   ");
             for (int i = 0; i < width; i++)
             {
-                s += ("┌─┐ ");
+                s += ("┌─┐   ");
             }
 
             s += ("│    /  \n");
-            s += ("│ ");
+            s += ("│   ");
             for (int i = 0; i < width; i++)
             {
-                s += ("└─┘ ");
+                s += ("└─┘   ");
             }
 
             s += ("│   />  \n");
@@ -90,11 +90,11 @@ namespace almost_passed
         private static string DrawTitle(string title)
         {
             string s = "";
-            s += ("│     ");
+            s += ("│               ");
             s += (title);
             var length = Count.GetLen(title);
             for (var i = 0; i < ((4 - length % 4) == 4 ? 0 : (4 - length % 4)); i++) s += (" ");
-            s += ("    │\n");
+            s += ("                │\n");
             return s;
         }
 
