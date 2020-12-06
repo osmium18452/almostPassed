@@ -1,0 +1,16 @@
+D:\csvs\almost passed\almost passed\bin\Debug\netcoreapp3.1\almost passed.exe
+D:\csvs\almost passed\almost passed\bin\Debug\netcoreapp3.1\almost passed.deps.json
+D:\csvs\almost passed\almost passed\bin\Debug\netcoreapp3.1\almost passed.runtimeconfig.json
+D:\csvs\almost passed\almost passed\bin\Debug\netcoreapp3.1\almost passed.runtimeconfig.dev.json
+D:\csvs\almost passed\almost passed\bin\Debug\netcoreapp3.1\almost passed.dll
+D:\csvs\almost passed\almost passed\bin\Debug\netcoreapp3.1\almost passed.pdb
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost passed.csprojAssemblyReference.cache
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost_passed.Form1.resources
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost passed.csproj.GenerateResource.cache
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost passed.AssemblyInfoInputs.cache
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost passed.AssemblyInfo.cs
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost passed.csproj.CoreCompileInputs.cache
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost passed.dll
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost passed.pdb
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost passed.genruntimeconfig.cache
+D:\csvs\almost passed\almost passed\obj\Debug\netcoreapp3.1\almost_passed.Properties.Resources.resources
